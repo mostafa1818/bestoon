@@ -1,4 +1,4 @@
 #!/bin/bash
 
 TOKEN=test
-BASE_URL=http://bestoon.ir
+BASE_URL=http://bestn.ir
